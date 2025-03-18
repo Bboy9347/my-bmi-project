@@ -1,5 +1,5 @@
 
-name: 'build and deploy react appp'
+name: 'build and deploy react app'
 
 on:
   push:
